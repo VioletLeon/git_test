@@ -1,0 +1,1 @@
+This is Violet's first git project.
